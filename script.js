@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         DontFollow for Linkedin
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/ketan-16/dontfollow-for-linkedin
 // @version      0.1a
 // @description  Unticks the annoying "Follow company for more updates" in the final Easy Apply modal.
 // @author       Ketan Yadav
